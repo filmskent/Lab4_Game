@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java">
+		<attributes>
+			<attribute name="FROM_GRADLE_MODEL" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src/test/java">
+		<attributes>
+			<attribute name="FROM_GRADLE_MODEL" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.buildship.core.gradleclasspathcontainer"/>
+	<classpathentry kind="lib" path="C:/Users/vrk_b/Desktop/Progmeth/2110215_Lab4_ShootTheBullet/required jar/CodecWav.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vrk_b/Desktop/Progmeth/2110215_Lab4_ShootTheBullet/required jar/lab4_lib.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vrk_b/Desktop/Progmeth/2110215_Lab4_ShootTheBullet/required jar/LibraryJavaSound.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vrk_b/Desktop/Progmeth/2110215_Lab4_ShootTheBullet/required jar/SoundSystem.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
